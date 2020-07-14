@@ -1,0 +1,221 @@
+body {
+  text-align: center;
+  background-color: #eaf6f6;
+  margin: auto;
+}
+
+p {
+  color: #40514E;
+}
+
+h1 {
+  color: #11999e;
+}
+
+h2 {
+  color: #11999e;
+  font-family: 'Montserrat', sans-serif;
+}
+
+
+h3 {
+  color: #11999e;
+  font-family: 'Montserrat', sans-serif;
+}
+
+
+.intro-class {
+
+  position: relative;
+}
+
+.top-cloud {
+
+  position: absolute;
+  top: 20rem;
+  left: 25rem;
+}
+
+.bottom-cloud {
+
+  position: absolute;
+  top: 3rem;
+  right: 25rem;
+}
+
+#h1-1 {
+
+  display: inline-block;
+  margin-top: 8rem;
+  font-family: 'Sacramento', cursive;
+  font-size: 6rem;
+  margin-bottom: 0;
+
+}
+
+#p-1 {
+
+  font-family: 'Montserrat', sans-serif;
+  margin-top: 0;
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+
+.mountain-img {
+  display: inline-block;
+  width: 40%;
+  position: absolute;
+  left: 30%;
+  top: 20rem;
+
+}
+
+.my-img {
+  display: inline-block;
+  width: 20%;
+  position: absolute;
+  left: 40%;
+  top: 50rem;
+}
+
+#h1-2 {
+
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bolder;
+  text-align: center;
+  margin: auto;
+}
+
+#p-2 {
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.greet-class {
+  margin-top: 52.5rem;
+}
+
+.skill-class {
+  margin-top: 5rem;
+  width: 50%;
+  margin: 0 auto 0 auto;
+
+}
+
+.skill-class h1 {
+
+  font-family: 'Montserrat', sans-serif;
+  font-size: 3rem;
+  font-weight: bolder;
+  text-align: center;
+  margin: auto;
+  margin-top: 100px;
+
+}
+
+.skill-class h3 {
+
+  font-family: 'Montserrat', sans-serif;
+}
+
+.skill-class p {
+
+  font-family: 'Montserrat', sans-serif;
+  line-height: 2;
+
+}
+
+.skill-2 {
+  text-align: left;
+}
+
+.skill-1 {
+  margin-top: 75px;
+  margin-bottom: 150px;
+  text-align: left;
+
+}
+
+.skill-class img {
+
+  margin-left: 0;
+}
+
+.css-img {
+  float: left;
+  margin-right: 30px;
+  width: 20%;
+}
+
+.html-img {
+  float: right;
+  margin-left: 30px;
+  width: 25%;
+}
+
+.contact-class {
+  margin-top: 100px;
+}
+
+.contact-class h1 {
+
+  font-size: 2.5rem;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: light;
+  text-align: center;
+
+}
+
+.contact-class h3 {
+  font-weight: light;
+}
+
+.footer-class {
+    background-color: #66BFBF;
+    margin-top: 100px;
+}
+
+
+.myButton {
+	box-shadow: 0px 10px 14px -7px #276873;
+	background:linear-gradient(to bottom, #599bb3 5%, #408c99 100%);
+	background-color:#599bb3;
+	border-radius:6px;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Trebuchet MS;
+	font-size:25px;
+	font-weight:bold;
+	padding:11px 32px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #3d768a;
+  margin-top: 30px;
+}
+.myButton:hover {
+	background:linear-gradient(to bottom, #408c99 5%, #599bb3 100%);
+	background-color:#408c99;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+
+
+.footer-class .social {
+  text-decoration: none;
+  font-family: 'Montserrat', sans-serif;
+  color: white;
+  padding-top: 50px;
+  padding-left: 30px;
+  text-align: center;
+  font-size: 1.25rem;
+}
+
+footer {
+  font-family: 'Montserrat', sans-serif;
+  color: white;
+  padding-top: 30px;
+  padding-bottom: 10px;
+  font-weight: lighter;
+}
